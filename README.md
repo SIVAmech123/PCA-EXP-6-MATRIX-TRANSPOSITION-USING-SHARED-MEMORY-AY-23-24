@@ -3,7 +3,7 @@
 # ENTER YOUR NAME: DEVA DHARSHINI
 # ENTER YOUR REGISTER NO: 212223240026
 # EX. NO: 6
-# DATE:14-05-24
+# DATE:14-05-25
 <h1> <align=center> MATRIX TRANSPOSITION USING SHARED MEMORY </h3>
   Implement Matrix transposition using GPU Shared memory.</h3>
 
