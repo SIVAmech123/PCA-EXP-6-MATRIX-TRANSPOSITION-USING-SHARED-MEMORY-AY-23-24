@@ -1,5 +1,8 @@
 # PCA-EXP-6-MATRIX-TRANSPOSITION-USING-SHARED-MEMORY-AY-23-24
-# EX. NO: 6
+<h3>NAME:VIGNESH V</h3>
+<h3>REGISTER NO:212223230241</h3>
+<h3>EX. NO:06</h3>
+<h3>DATE:17-05-2025</h3>
 <h1> <align=center> MATRIX TRANSPOSITION USING SHARED MEMORY </h3>
   Implement Matrix transposition using GPU Shared memory.</h3>
 
@@ -393,8 +396,7 @@ CHECK(cudaMemset(d_C, 0, nBytes));
 ```
 
 ## OUTPUT:
-![Screenshot 2025-05-14 183849](https://github.com/user-attachments/assets/c3cbfec3-b26d-4473-b500-258211db8018)
-
+![Screenshot 2025-05-17 113612](https://github.com/user-attachments/assets/f683175b-0904-450d-bfea-99a19eb3d90c)
 
 ## RESULT:
-The Matrix transposition on shared memory with grid (1,1) block (16,16) is demonstrated successfully.
+Thus the program has been executed by using CUDA to transpose a matrix. It is observed that there are variations shared memory and global memory implementation.
